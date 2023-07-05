@@ -1,0 +1,15 @@
+D:\My documents\For Geek Brains\Языки программиования (С#)\HW_C_Sharp\1_2\bin\Debug\net6.0\1_2.exe
+D:\My documents\For Geek Brains\Языки программиования (С#)\HW_C_Sharp\1_2\bin\Debug\net6.0\1_2.deps.json
+D:\My documents\For Geek Brains\Языки программиования (С#)\HW_C_Sharp\1_2\bin\Debug\net6.0\1_2.runtimeconfig.json
+D:\My documents\For Geek Brains\Языки программиования (С#)\HW_C_Sharp\1_2\bin\Debug\net6.0\1_2.dll
+D:\My documents\For Geek Brains\Языки программиования (С#)\HW_C_Sharp\1_2\bin\Debug\net6.0\1_2.pdb
+D:\My documents\For Geek Brains\Языки программиования (С#)\HW_C_Sharp\1_2\obj\Debug\net6.0\1_2.csproj.AssemblyReference.cache
+D:\My documents\For Geek Brains\Языки программиования (С#)\HW_C_Sharp\1_2\obj\Debug\net6.0\1_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\My documents\For Geek Brains\Языки программиования (С#)\HW_C_Sharp\1_2\obj\Debug\net6.0\1_2.AssemblyInfoInputs.cache
+D:\My documents\For Geek Brains\Языки программиования (С#)\HW_C_Sharp\1_2\obj\Debug\net6.0\1_2.AssemblyInfo.cs
+D:\My documents\For Geek Brains\Языки программиования (С#)\HW_C_Sharp\1_2\obj\Debug\net6.0\1_2.csproj.CoreCompileInputs.cache
+D:\My documents\For Geek Brains\Языки программиования (С#)\HW_C_Sharp\1_2\obj\Debug\net6.0\1_2.dll
+D:\My documents\For Geek Brains\Языки программиования (С#)\HW_C_Sharp\1_2\obj\Debug\net6.0\refint\1_2.dll
+D:\My documents\For Geek Brains\Языки программиования (С#)\HW_C_Sharp\1_2\obj\Debug\net6.0\1_2.pdb
+D:\My documents\For Geek Brains\Языки программиования (С#)\HW_C_Sharp\1_2\obj\Debug\net6.0\1_2.genruntimeconfig.cache
+D:\My documents\For Geek Brains\Языки программиования (С#)\HW_C_Sharp\1_2\obj\Debug\net6.0\ref\1_2.dll
